@@ -21,4 +21,5 @@ The MongoDB database is hosted on **MongoDB Atlas** and contains:
 ```bash
 cd server
 npm install
+npm run dev
 ```
