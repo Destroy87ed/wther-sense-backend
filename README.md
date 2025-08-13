@@ -19,7 +19,6 @@ The MongoDB database is hosted on **MongoDB Atlas** and contains:
 ## Installation
 
 ```bash
-git clone https://github.com/kunaal-gupta/WeatherSense.git
 cd server
 npm install
 ```
